@@ -1,0 +1,14 @@
+A propriedade usada para posicionar um item em uma coluna específica ao usar Grid Layout em CSS é a opção:
+c) grid-column-start
+
+A propriedade `animation-fill-mode` em CSS é usada para definir o estado da animação quando não está sendo reproduzida. Portanto, a opção correta é:
+d) Define o estado da animação quando não estiver sendo reproduzida.
+
+A função CSS usada para aplicar estilos com base na proporção entre a largura e a altura do viewport é:
+d) aspect-ratio()
+
+A propriedade `contain` em CSS é usada para indicar que o elemento e seus conteúdos são, o quanto possível, independentes do restante da árvore do documento. Portanto, a opção correta é:
+b) Indica que o elemento e seus conteúdos são, o quanto possível, independentes do restante da árvore do documento.
+
+A propriedade `column-gap` em CSS influencia um layout de multi-colunas, não de grade. Ela é usada para definir o espaço entre as colunas em um layout de várias colunas. Portanto, a opção correta é:
+a) Define o espaço entre colunas em um layout de multi-colunas.

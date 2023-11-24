@@ -1,0 +1,18 @@
+A opção correta para adicionar um sublinhado a um texto em CSS é:
+c) text-decoration: underline;
+
+opção correta é:
+c) Para ignorar uma propriedade
+Quando !important é adicionado a uma declaração de estilo em CSS, isso indica que essa regra deve ter precedência sobre outras regras, mesmo que outras regras tenham uma especificidade maior. Portanto, !important é usado para dar alta prioridade a uma propriedade específica e ignorar outras regras que possam se aplicar à mesma propriedade.
+
+A opção correta é:
+a) block
+
+A opção correta é:
+c) Controlar a profundidade de empilhamento de um elemento
+
+A propriedade CSS usada para definir o espaço entre as linhas de texto é:
+c) line-height
+
+A propriedade que altera a fonte de um texto em CSS é:
+d) font-family
